@@ -1,0 +1,2 @@
+# CurrencyCalc
+Techinical test
