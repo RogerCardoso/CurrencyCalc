@@ -1,0 +1,17 @@
+.input-div {
+    display: inline-block;
+    margin: 0px 10px;
+
+    :first-child {
+        margin: 0px 10px 0px -10px;
+    }
+    select {
+        height: 29px;
+    }
+}
+
+.button {
+    color: white;
+    background-color: #007bff;
+    border-radius: 2px;
+}
